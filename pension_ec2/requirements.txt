@@ -1,0 +1,7 @@
+requests
+dateparser
+datetime
+json
+flask
+re 
+decimal

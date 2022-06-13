@@ -1,0 +1,100 @@
+{
+  "caseTypeID": "VA-VBAPFS-Work-MedicalExpenseAdjustment",
+  "processID": "pyStartCase",
+  "parentCaseID": "",
+  "content": {
+    "Formdata527": {
+      "name": "Marcus A Flowers",
+      "SSN": "xxx-xx-xxxx",
+      "va_file_number": "xxxxxxx",
+      "claimant_name": "Marcus Flowers",
+      "mailing_address": "123 Main Street, Dallas, TX, 75201",
+      "telephone": "215-555-1212",
+      "claim_date": "1/10/2022",
+      "claimants_signature": true,
+      "date_signed": "01/04/2022",
+      "veteran_service_entry_date": "11/21/1983",
+      "branch_of_service": "ARMY",
+      "release_date": "10/01/1996",
+      "expenses": [
+        {
+          "person": "Self",
+          "paid_to": "Social Security",
+          "purpose": "MEDICARE (PART B)",
+          "date_paid": "2021 monthly",
+          "amount_paid": "$148.5 monthlh"
+        },
+        {
+          "person": "self",
+          "paid_to": "Blue Cross Blue Shield",
+          "purpose": "PRIVATE MEDICAL INSURANCE",
+          "date_paid": "2021 monthly",
+          "amount_paid": "200"
+        },
+        {
+          "person": "self",
+          "paid_to": "Smiley Dental of Dallas",
+          "purpose": "Dental Emergency - Root Canal",
+          "date_paid": "9/18/2021",
+          "amount_paid": "500"
+        },
+        {
+          "person": "self",
+          "paid_to": "CVS Pharmacy",
+          "purpose": "Rx co pays",
+          "date_paid": "2021 annual",
+          "amount_paid": "$1000"
+        },
+        {
+          "person": "self",
+          "paid_to": "Amigone Insurance",
+          "purpose": "Life Insurance Premiums",
+          "date_paid": "2021 annual",
+          "amount_paid": "50"
+        }
+      ],
+      "award_data": [
+        {
+          "award_date": "12/20",
+          "ss_monthly_income_monthly": "8598",
+          "total_income": "8958",
+          "SMIB_monthly": "144.6",
+          "SMIB_annual": "1732.2",
+          "PMI_monthly": "100",
+          "PMI_annual": "1200",
+          "total_meds": "2935",
+          "less_deductible": "696",
+          "net_meds": "2239",
+          "IVAP": "6719",
+          "MAPR": "13931",
+          "monthly_rate": "601"
+        },
+        {
+          "award_date": "2/21",
+          "ss_monthly_income_monthly": "8598",
+          "total_income": "8958",
+          "SMIB_monthly": "148.5",
+          "SMIB_annual": "1782",
+          "PMI_monthly": "100",
+          "PMI_annual": "1200",
+          "total_meds": "2982",
+          "less_deductible": "696",
+          "net_meds": "2286",
+          "IVAP": "6672",
+          "MAPR": "13931",
+          "monthly_rate": "604"
+        }
+      ],
+      "ss_inquiry": [
+        {
+          "recepient": "Veteran",
+          "premium_amount": 170.1,
+          "monthly_benefit": [
+            { "date": "12/01/21", "amount": 778.1, "type": "paid" },
+            { "date": "12/01/20", "amount": 746.5, "type": "paid" }
+          ]
+        }
+      ]
+    }
+  }
+}

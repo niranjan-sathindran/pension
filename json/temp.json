@@ -1,0 +1,112 @@
+{
+  "name": "Kyle Richards",
+  "SSN": "XXX XX XXXX",
+  "DOB": "10 30 1950",
+  "va_file_number": "XXXXXXXX",
+  "mailing_address": "123 Main Street",
+  "mailing_address_city": "Beverly Hills",
+  "mailing_address_state": "CA",
+  "telephon_number": "215-555-1212",
+  "disabilities": { "description": "Arthritis", "date_began": "01-01-2000" },
+  "medical_centers": {
+    "location": "VAMC Beverly Hills",
+    "treatment_date": "01-01-1999"
+  },
+  "branch_of_service": {
+    "army": "True",
+    "navy": "False",
+    "marine_corps": "False",
+    "space_force": "False",
+    "air_force": "False",
+    "coast_guard": "False"
+  },
+  "veteran_service_entry_date": "02-21-1971",
+  "release_date": "12-01-1976",
+  "service_number": "XXXXXX",
+  "last_separation": "XXXXXX",
+  "pow": { "true": "False", "false": "True" },
+  "special_pension": { "true": "False", "false": "True" },
+  "recently_hospitalized": { "true": "False", "false": "True" },
+  "employed": { "true": "False", "false": "True" },
+  "self_employed": { "true": "False", "false": "True" },
+  "nursing_home": { "true": "False", "false": "True" },
+  "marital_status": {
+    "married": "True",
+    "divorced": "False",
+    "widowed": "False",
+    "never_married": "False"
+  },
+  "veteran_marriages": {
+    "times_married": "True",
+    "details0": {
+      "date_of_marriage": "02-20-1980",
+      "whom_married": "Maurice Richards",
+      "type_of_marriage": "ceremonial",
+      "how_marriage_ended": "has not ended",
+      "date_ended": "na"
+    }
+  },
+  "spouse_marriages": {
+    "times_married": "1",
+    "details0": {
+      "date_of_marriage": "02-20-1980",
+      "whom_married": "Kyle Richards",
+      "type_of_marriage": "ceremonial",
+      "how_marriage_ended": "has not ended",
+      "date_ended": "na"
+    }
+  },
+  "spouse_dob": "09 05 1949",
+  "spouse_ssn": "XXX XX XXXX",
+  "spouse_veteran": { "true": "False", "false": "True" },
+  "live_with_spouse": { "true": "True", "false": "False" },
+  "spouse_va_file_number": "XXXXX",
+  "spouse_address": "123 Main Street",
+  "spouse_address_city": "Beverly Hills",
+  "spouse_address_state": "CA",
+  "spouse_address_zip": "90210",
+  "ss_payments0": { "recepient": "Veteran" },
+  "expenses0": {
+    "amount_paid": "$148.50",
+    "person": "Veteran",
+    "paid_to": "Social Security",
+    "purpose": "Medicare Part B\\npremiums",
+    "date_paid": "2021 monthly"
+  },
+  "ss_payments1": { "recepient": "Spouse" },
+  "expenses1": {
+    "amount_paid": "$170.00",
+    "person": "Veteran",
+    "paid_to": "Social Security",
+    "purpose": "Medicare Part B\\nPremiums",
+    "date_paid": "2022 monthly"
+  },
+  "expenses2": {
+    "person": "Veteran",
+    "paid_to": "Aetna",
+    "purpose": "Private Medical\\nInsurance Premiu",
+    "date_paid": "2021 montly",
+    "amount_paid": "$100.00"
+  },
+  "expenses3": {
+    "person": "Veteran",
+    "paid_to": "Aetna",
+    "purpose": "Private Medical\\nInsurance Premiu",
+    "date_paid": "Jan 1, 2022",
+    "amount_paid": "$185.00"
+  },
+  "expenses4": {
+    "person": "Spouse",
+    "paid_to": "Social Security",
+    "purpose": "Medicare Part B\\nPremiums",
+    "date_paid": "2021 monthly",
+    "amount_paid": "$148.50"
+  },
+  "expenses5": {
+    "person": "Spouse",
+    "paid_to": "Social Security",
+    "purpose": "Medicare Part B\\nPremiums",
+    "date_paid": "Jan 1, 2022",
+    "amount_paid": "$170.00"
+  }
+}

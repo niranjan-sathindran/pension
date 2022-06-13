@@ -1,0 +1,39 @@
+import definitions from './definitions';
+
+const getDefinition = definition => {
+  return {
+    $ref: `#/definitions/${definition}`,
+  };
+};
+
+const addDefinitionToSchema = (schema, definition, key) => {
+  // eslint-disable-next-line no-param-reassign
+  if (key == null) key = definition;
+  const schemaDefinitions = schema.definitions;
+
+  if (schemaDefinitions[definition] == null) {
+    schemaDefinitions[definition] = definitions[definition];
+  }
+
+  const keysArray = key.split('.');
+  let prop = schema;
+
+  keysArray.forEach((k, i) => {
+    if (prop.type === 'array') prop = prop.items;
+
+    prop = prop.properties;
+
+    if (i === keysArray.length - 1) {
+      prop[k] = getDefinition(definition);
+    } else {
+      if (prop[k] == null) prop[k] = {};
+
+      prop = prop[k];
+    }
+  });
+};
+
+export default {
+  addDefinitionToSchema,
+  getDefinition,
+};

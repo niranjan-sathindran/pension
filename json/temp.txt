@@ -1,0 +1,45 @@
+Vet Name	'veteran_name'			
+Vet M	'veteran_gender'	Vet Female		
+Vet DOB Month	'veteran_dob'			
+Veteran SSN	'veteran_ssn'			
+VA File Number	'va_file_number'			
+Vet Service Number	'veteran_service_number'			
+Claimant Name	'claimant_name'			
+Relationship Spouse	'relationship_to_veteran'	Relationship Self		
+Claimant SSN	'claimant_ssn'			
+Claimant Home Address	'mailing_address'	Claimant City	Claimant State	Claimant Zip Code
+Special Monthly Comp	'benefit_claimed'			
+Date of Examination	'date_of_exam'			
+Claimant Hospitalized Y	'claimant_hospitalized'	Claimant Hospitalized N		
+Complete Diag	'complete_diagnosis'	Special Monthly Pension		
+Age	'age'			
+Estimated LBS	'weight'			
+Feet	'height_feet'			
+Inches	'height_inches'			
+Gait	'gait'			
+Restrict Activities	'disabilities_restrict_activities'			
+Feed Himself Y	'feed_oneself'	Feed Himself N		
+Own Meals Y	'prepare_meals'	Own Meals N		
+Own Meals Line 1	'prepare_meals_explanation'			
+Bathing Y	'assistance_bathing'	Bathing N		
+Bathing Line 1	'assistance_bathing_explanation'			
+Legally Blind Y	'legally_blind'	Legally Blind N		
+Med Management Y	'medication_management'	Med Management N		
+Med Management Line 1	'medication_management_explanation'			
+Mental Capacity Y	'manage_payments'	Mental Capacity N		
+33	'posture'			
+34 Line 1	'restrictions_grip_movements'			
+35	'restrictions_motion'			
+36	'restrictions_spine'			
+37	'question_37'			
+38	'question_38'			
+39 Y	'question_39'			
+Printed Name Phys	'name_of_physician'			
+Sig Phys	'signature'			
+Date Signed	'date_signed'			
+National Provider Identity	'npi'			
+Medical Facility Phone Number	'telephone'			
+Name of Medical Facility	'name_of_facility'			
+Address of Medical Facility	'address_of_facility'			
+				
+		39 N		

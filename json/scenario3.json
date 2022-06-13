@@ -1,0 +1,137 @@
+{
+  "form534data": {
+    "veteran_name": "GILBER MORMINO",
+    "veteran_gender": "MALE",
+    "veteran_dob": "09/25/1927",
+    "veteran_ssn": "xxx-xx-xxxx",
+    "previous_claim": false,
+    "active_duty_death": false,
+    "veteran_date_death": "09/30/2021",
+    "claimant_name": "NADA MORMINO",
+    "relationship_to_veteran": "SURVIVING SPOUSE",
+    "claimant_ssn": "222-22-2222",
+    "claimant_dob": "12/14/1930",
+    "claimant_veteran": false,
+    "mailing_address": "2122 W TAYLOR ST, CHICAGO, IL, 60612 US",
+    "telephone": "555-255-5200",
+    "claim_date": "1/10/2022",
+    "application_for": "SURVIVORS PENSION",
+    "veteran_other_name": false,
+    "veteran_service_entry_date": "09/05/1946",
+    "branch_of_service": "ARMY",
+    "release_date": "05/31/1955",
+    "pow": false,
+    "veteran_marriages": {
+      "times_married": "2",
+      "details": [
+        {
+          "date_of_marriage": "06/01/1950",
+          "whom_married": "NADA MORMINO",
+          "type_of_marriage": "CHURCH",
+          "how_marriage_ended": "DEATH",
+          "date_ended": "09/30/2021"
+        },
+        {
+          "date_of_marriage": "UNKNOWN",
+          "whom_married": "JANET JACKSON",
+          "type_of_marriage": "CHURCH",
+          "how_marriage_ended": "DIVORCE",
+          "date_ended": "UNKNOWN"
+        }
+      ]
+    },
+    "claimant_marriages": { "been_remarried": false },
+    "children": false,
+    "expecting_child": false,
+    "live_with_veteran": true,
+    "marriage_legally_not_valid": false,
+    "housebound_aa": false,
+    "nursing_home": false,
+    "medicaid_nursing_home": false,
+    "applied_for_medicaid": false,
+    "dependent_ss_benefits": true,
+    "ss_payments": [{ "recepient": "SELF", "amount": "377" }],
+    "own_residence": false,
+    "residence_size": "2500",
+    "lot_part_sold": false,
+    "other_income": false,
+    "dependents_other_income": true,
+    "dependents_assets_10k": true,
+    "assets_transfer": false,
+    "yes_to_43a_d": true,
+    "claiming_ume": false,
+    "banking_info": {
+      "account_type": "CHECKING",
+      "bank_name": "Deepockets Credit Union",
+      "routing": "25555555"
+    },
+    "claimants_signature": true,
+    "date_signed": "1/7/2022"
+  },
+  "death_certificate_data": {
+    "deceased_legal_name": "GILBERT MORMINO",
+    "sex": "M",
+    "SSN": "REDACTED",
+    "age": 94,
+    "DOB": "09/25/1927",
+    "birthplace": "Hillsboro, TX",
+    "residence_state": "Illinois",
+    "county": "Cook",
+    "city": "Chicago",
+    "street_number": "2122 W Taylor St",
+    "zip_code": 60612,
+    "inside_city": true,
+    "us_armed_forces": true,
+    "marital_status": "Married",
+    "suviving_spouse_name": "Nada Smith",
+    "fathers_name": "Alex Rex Mormino",
+    "mothers_name": "Dorthy Ann McAllister",
+    "informants_name": "Nada Mormino",
+    "relationship": "Spouse",
+    "mailing_address": "2122 W Taylor Sr, Chicago, IL 60612",
+    "place_of_death": {
+      "death_place_not_hospital": "Decedents home",
+      "county_of_death": "Cook",
+      "method_of_disposition": "Burial",
+      "place_of_disposition": "Green Pastures Cemetary",
+      "location": "4001 N.Clark Street, Chicago, IL",
+      "funeral_facility_address": "Baldwin Funeral Services, 4901 S. Archer Avenue, Chicago, IL 60632",
+      "signature": true,
+      "license_number": "12344556767786"
+    },
+    "person_certifying_death": {
+      "date_dead": "09/30/2021",
+      "time_dead": "10:17 am",
+      "signature": false,
+      "license_number": "56789",
+      "date_signed": "10/5/2021",
+      "medical_examiner_contacted": false,
+      "cause_of_death": [],
+      "autopsy_performed": true,
+      "certifier": "Proniuncing & Certifying physician"
+    },
+    "funeral_director": {
+      "decedents_education": "Bachelors degree",
+      "decedents_hispanic_origin": "No, not Spanish/Hispanic/Latino",
+      "decedents_race": "White",
+      "decedents_occupation": "Air Controller",
+      "kind_of_business": "Transportation"
+    }
+  },
+  "ss_inquiry": [
+    {
+      "recepient": "",
+      "premium_amount": 170.1,
+      "monthly_benefit": [
+        { "date": "12/01/2021", "amount": 865.1, "type": "paid" },
+        { "date": "09/01/2021", "amount": 725.5, "type": "paid" },
+        { "date": "12/01/2020", "amount": 525.5, "type": "paid" },
+        { "date": "12/01/2019", "amount": 1515.6, "type": "paid" },
+        { "date": "12/01/2018", "amount": 500, "type": "paid" },
+        { "date": "12/01/2017", "amount": 400, "type": "paid" },
+        { "date": "12/01/2016", "amount": 300, "type": "paid" },
+        { "date": "12/01/2015", "amount": 275, "type": "paid" }
+      ]
+    }
+  ]
+}

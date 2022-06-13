@@ -1,0 +1,225 @@
+{
+  "caseTypeID": "VA-VBAPFS-Work-SurvivorsPensionGrant",
+  "processID": "pyStartCase",
+  "parentCaseID": "",
+  "content": {
+    "SurvivorPensionData": {
+      "form534data": {
+        "veteran_name": "John J Jackson",
+        "veteran_gender": "MALE",
+        "veteran_dob": "03/01/1924",
+        "veteran_ssn": "XXX-XX-XXXX",
+        "previous_claim": true,
+        "va_file_number": "12345678",
+        "active_duty_death": false,
+        "veteran_service_number": "XXXXXX",
+        "veteran_date_death": "12/15/2021",
+        "claimant_name": "Susan M Jackson",
+        "relationship_to_veteran": "SURVIVING SPOUSE",
+        "claimant_ssn": "XXX-XX-XXXX",
+        "claimant_dob": "05/16/1930",
+        "claimant_veteran": false,
+        "mailing_address": "456 Love Street, Philadelphia, PA 19144",
+        "telephone": "XXX-XXX-XXXX",
+        "EMAIL": "XXXXXX@aol.com",
+        "claim_date": "1/22/2022",
+        "application_for": "SURVIVORS PENSION",
+        "veteran_other_name": false,
+        "veteran_service_entry_date": "02/06/1942",
+        "branch_of_service": "ARMY",
+        "release_date": "02/24/1944",
+        "last_separation": "Fort Carson, Colorado",
+        "veteran_active_duty": false,
+        "pow": false,
+        "veteran_marriages": {
+          "times_married": "1",
+          "details": [
+            {
+              "date_of_marriage": "09/30/1949 Phila, PA",
+              "whom_married": "Susan M. Jackson",
+              "type_of_marriage": "Ceremonial",
+              "how_marriage_ended": "Death",
+              "date_ended": "12/15/2021"
+            }
+          ]
+        },
+        "claimant_marriages": {
+          "been_remarried": false,
+          "times_married": "1",
+          "details": [
+            {
+              "date_of_marriage": "09/30/1949",
+              "whom_married": "John J. Jackson",
+              "type_of_marriage": "Ceremonial",
+              "how_marriage_ended": "Death",
+              "date_ended": "12/15/2021"
+            }
+          ]
+        },
+        "children": true,
+        "expecting_child": false,
+        "live_with_veteran": true,
+        "marriage_legally_not_valid": false,
+        "housebound_aa": true,
+        "nursing_home": false,
+        "medicaid_nursing_home": "",
+        "applied_for_medicaid": "",
+        "dependent_ss_benefits": true,
+        "ss_payments": [{ "recepient": "Myself", "amount": "$1088" }],
+        "own_residence": false,
+        "residence_size": "2500",
+        "lot_part_sold": false,
+        "other_income": false,
+        "dependents_other_income": false,
+        "dependents_assets_10k": false,
+        "assets_transfer": false,
+        "yes_to_43a_d": false,
+        "claiming_ume": true,
+        "expenses": [
+          {
+            "person": "Myself",
+            "paid_to": "Spocial Security",
+            "purpose": "Medicare Premium",
+            "date_paid": "2022",
+            "amount_paid": "170.10 monthly"
+          },
+          {
+            "person": "Myself",
+            "paid_to": "Brightstar Care",
+            "purpose": "Caregiver Services",
+            "date_paid": "11/01/2021 to present",
+            "amount_paid": "1200.00 monthly"
+          }
+        ],
+        "banking_info": {},
+        "claimants_signature": true,
+        "date_signed": "1/21/2022",
+        "inhome_attendant_expenses": {
+          "dic_claimant": true,
+          "special_monthly_pension": true,
+          "health_care_custodial_care": true,
+          "mental_physical_disability": true,
+          "activities_assisted": [
+            "bathing/showering",
+            "dressing",
+            "transferring",
+            "using the toilet",
+            "food preparation",
+            "handling medications"
+          ],
+          "certification": {
+            "pertaining_to": "Susan Jackson",
+            "care_from": "Brightstar Care",
+            "signature": true,
+            "date": "01/21/2022"
+          }
+        }
+      },
+      "form2680data": {
+        "veteran_name": "John J Jackson",
+        "veteran_gender": "MALE",
+        "veteran_dob": "03/01/1924",
+        "veteran_ssn": "XXX-XX-XXXX",
+        "va_file_number": "12345678",
+        "veteran_service_number": "XXXXXX",
+        "claimant_name": "Susan M Jackson",
+        "relationship_to_veteran": "SPOUSE",
+        "claimant_ssn": "XXX-XX-XXXX",
+        "mailing_address": "456 Love Street, Philadelphia, PA 19144",
+        "benefit_claimed": "SMC",
+        "date_of_exam": "01/15/2022",
+        "claimant_hospitalized": false,
+        "complete_diagnosis": "CAD, lung cancer, arthritis",
+        "age": "91",
+        "weight": "105",
+        "height_feet": "5",
+        "height_inches": "04",
+        "gait": "unsteady uses wheelchair",
+        "disabilities_restrict_activities": "CAD, lung cancer, and arthritis",
+        "feed_oneself": true,
+        "prepare_meals": false,
+        "prepare_meals_explanation": "requires family to make meals",
+        "assistance_bathing": true,
+        "assistance_bathing_explanation": "requires assistance to bathe",
+        "legally_blind": false,
+        "medication_management": true,
+        "medication_management_explanation": "family assists with medication distribution",
+        "manage_payments": true,
+        "posture": "stooped posture and frail",
+        "restrictions_grip_movements": "requires assistance dressing & attending to needs of nature",
+        "restrictions_motion": "unsteady needs wheelchair",
+        "restrictions_spine": "none",
+        "question_37": "poor balance",
+        "question_38": "As needed with assistance",
+        "question_39": true,
+        "name_of_physician": "Dr. Howser",
+        "signature": true,
+        "date_signed": "01/15/2022",
+        "npi": "XXXXXXX",
+        "telephone": "XXX-XXX-XXXX",
+        "name_of_facility": "Doogies Practice",
+        "address_of_facility": "123 Main st. Phila, PA 19144"
+      },
+      "death_certificate_data": {
+        "deceased_legal_name": "GILBERT MORMINO",
+        "sex": "M",
+        "SSN": "REDACTED",
+        "age": 94,
+        "DOB": "09/25/1927",
+        "birthplace": "Hillsboro, TX",
+        "residence_state": "Illinois",
+        "county": "Cook",
+        "city": "Chicago",
+        "street_number": "2122 W Taylor St",
+        "zip_code": 60612,
+        "inside_city": true,
+        "us_armed_forces": true,
+        "marital_status": "Married",
+        "suviving_spouse_name": "Nada Smith",
+        "fathers_name": "Alex Rex Mormino",
+        "mothers_name": "Dorthy Ann McAllister",
+        "informants_name": "Nada Mormino",
+        "relationship": "Spouse",
+        "mailing_address": "2122 W Taylor Sr, Chicago, IL 60612",
+        "place_of_death": {
+          "death_place_not_hospital": "Decedents home",
+          "county_of_death": "Cook",
+          "method_of_disposition": "Burial",
+          "place_of_disposition": "Green Pastures Cemetary",
+          "location": "4001 N.Clark Street, Chicago, IL",
+          "funeral_facility_address": "Baldwin Funeral Services, 4901 S. Archer Avenue, Chicago, IL 60632",
+          "signature": true,
+          "license_number": "12344556767786"
+        },
+        "person_certifying_death": {
+          "date_dead": "09/30/2021",
+          "time_dead": "10:17 am",
+          "signature": false,
+          "license_number": "56789",
+          "date_signed": "10/5/2021",
+          "medical_examiner_contacted": false,
+          "cause_of_death": [],
+          "autopsy_performed": true,
+          "certifier": "Proniuncing & Certifying physician"
+        },
+        "funeral_director": {
+          "decedents_education": "Bachelors degree",
+          "decedents_hispanic_origin": "No, not Spanish/Hispanic/Latino",
+          "decedents_race": "White",
+          "decedents_occupation": "Air Controller",
+          "kind_of_business": "Transportation"
+        }
+      },
+      "ss_inquiry": [
+        {
+          "recepient": "",
+          "premium_amount": 170.1,
+          "monthly_benefit": [
+            { "date": "12/01/2021", "amount": 1088.1, "type": "paid" },
+            { "date": "12/01/2020", "amount": 1028.5, "type": "paid" }
+          ]
+        }
+      ]
+    }
+  }
+}

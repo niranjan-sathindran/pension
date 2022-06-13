@@ -1,0 +1,3953 @@
+{
+    "id": 91,
+    "state": "complete",
+    "substate": null,
+    "exceptions": [],
+    "start_time": "2022-05-21T00:19:38.341324Z",
+    "goal_time": "2022-05-22T00:19:38.341324Z",
+    "complete_time": "2022-05-21T00:23:39.604137Z",
+    "priority": 1907097239,
+    "layout_uuid": "002b16b0-7fdb-4fd6-bcd8-0bf1f17810b0",
+    "layout_name": "VA 21P-534EZ",
+    "layout_tags": [],
+    "layout_version_uuid": "8c610ead-ad8f-4bb4-8792-0a0aaa0216e1",
+    "layout_version_name": "v2",
+    "document_folders": [],
+    "supervision_url": null,
+    "type": "structured",
+    "metadata": {},
+    "decisions": [],
+    "pages": [
+        {
+            "id": 362,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 3,
+            "submission_page_number": 3,
+            "layout_page_number": 1,
+            "document_page_number": 1,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0334",
+            "corrected_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        },
+        {
+            "id": 363,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 4,
+            "submission_page_number": 4,
+            "layout_page_number": 2,
+            "document_page_number": 2,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0335",
+            "corrected_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        },
+        {
+            "id": 364,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 5,
+            "submission_page_number": 5,
+            "layout_page_number": 3,
+            "document_page_number": 3,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0336",
+            "corrected_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97c",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        },
+        {
+            "id": 365,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 6,
+            "submission_page_number": 6,
+            "layout_page_number": 4,
+            "document_page_number": 4,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0337",
+            "corrected_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        },
+        {
+            "id": 366,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 7,
+            "submission_page_number": 7,
+            "layout_page_number": 5,
+            "document_page_number": 5,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0338",
+            "corrected_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        },
+        {
+            "id": 367,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 8,
+            "submission_page_number": 8,
+            "layout_page_number": 6,
+            "document_page_number": 6,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0339",
+            "corrected_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        },
+        {
+            "id": 368,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "page_type": "document_page",
+            "file_page_number": 9,
+            "submission_page_number": 9,
+            "layout_page_number": 7,
+            "document_page_number": 7,
+            "submitted_filename": "Scenario 4 - EP190 Surviors Pension Grant with Rating_A&A.pdf",
+            "image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e033a",
+            "corrected_image_url": "/api/v5/image/ef48f2e0-d078-4f8f-ad2c-10a67f0ea8ce",
+            "rejected": false,
+            "decisions": [],
+            "identifiers": []
+        }
+    ],
+    "document_tables": [],
+    "document_fields": [
+        {
+            "id": 4849,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Vet Name",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "John J Jackson",
+                "normalized": "JOHN J JACKSON",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.05709240729841083&start_y=0.17644383810823103&end_x=0.9488736032409314&end_y=0.19913706036421333",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.05709240729841083&start_y=0.17644383810823103&end_x=0.9488736032409314&end_y=0.19913706036421333"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4850,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Vet SSN",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "AlphaOnly",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "XXX XX XXXX",
+                "normalized": "XXX XX XXXX",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06415538552089464&start_y=0.24010914051841747&end_x=0.37041580298343824&end_y=0.2623254177404991",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06415538552089464&start_y=0.24010914051841747&end_x=0.37041580298343824&end_y=0.2623254177404991"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4851,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Vet DOB",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "03-01-1924",
+                "normalized": "03/01/1924",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.39905826957033547&start_y=0.2396543883583447&end_x=0.6747524612628932&end_y=0.26100554700793654",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.39905826957033547&start_y=0.2396543883583447&end_x=0.6747524612628932&end_y=0.26100554700793654"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4852,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Male",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.7345497351383167&start_y=0.24420190995907232&end_x=0.7498528546203649&end_y=0.2555707139608913",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.7345497351383167&start_y=0.24420190995907232&end_x=0.7498528546203649&end_y=0.2555707139608913"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4853,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Female",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.8034137728075338&start_y=0.24420190995907232&end_x=0.8181283107710418&end_y=0.2555707139608913",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.8034137728075338&start_y=0.24420190995907232&end_x=0.8181283107710418&end_y=0.2555707139608913"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4854,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "VA File Number",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "12345678",
+                "normalized": "12345678",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.44084755738669806&start_y=0.2842201000454752&end_x=0.7068245834348228&end_y=0.3069133223014575",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.44084755738669806&start_y=0.2842201000454752&end_x=0.7068245834348228&end_y=0.3069133223014575"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4855,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Surviving Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.07828134196586227&start_y=0.29104138244656663&end_x=0.09299587992937022&end_y=0.30241018644838563",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.07828134196586227&start_y=0.29104138244656663&end_x=0.09299587992937022&end_y=0.30241018644838563"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4856,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Surviving N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.1418481459682166&start_y=0.29104138244656663&end_x=0.15715126545026487&end_y=0.30241018644838563",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.1418481459682166&start_y=0.29104138244656663&end_x=0.15715126545026487&end_y=0.30241018644838563"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4857,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Die on Active Duty Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.7345497351383167&start_y=0.29104138244656663&end_x=0.7498528546203649&end_y=0.30241018644838563",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.7345497351383167&start_y=0.29104138244656663&end_x=0.7498528546203649&end_y=0.30241018644838563"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4858,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Die on Active Duty N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.8034137728075338&start_y=0.29104138244656663&end_x=0.8181283107710418&end_y=0.30241018644838563",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.8034137728075338&start_y=0.29104138244656663&end_x=0.8181283107710418&end_y=0.30241018644838563"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4859,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Vet Service Number",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "AlphaOnly",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "XXXXXX",
+                "normalized": "XXXXXX",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06474396703943497&start_y=0.3428831286948613&end_x=0.3151757562918741&end_y=0.36559854382467144",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06474396703943497&start_y=0.3428831286948613&end_x=0.3151757562918741&end_y=0.36559854382467144"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4860,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Date of Death",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "12-15-2021",
+                "normalized": "12/15/2021",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.4502648616833431&start_y=0.34379263301500684&end_x=0.7253993438744357&end_y=0.3664858552709891",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.4502648616833431&start_y=0.34379263301500684&end_x=0.7253993438744357&end_y=0.3664858552709891"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4861,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Name",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Susan M Jackson",
+                "normalized": "SUSAN M JACKSON",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.0565038257798705&start_y=0.3829013187812642&end_x=0.9465625851923831&end_y=0.40470722959092886",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.0565038257798705&start_y=0.3829013187812642&end_x=0.9465625851923831&end_y=0.40470722959092886"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4862,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claimant SSN",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "AlphaNumeric",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "XXX XX XXXX",
+                "normalized": "XXXXXXXXX",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.5821071218363744&start_y=0.4297407912687585&end_x=0.875054550846088&end_y=0.4511141427921782",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.5821071218363744&start_y=0.4297407912687585&end_x=0.875054550846088&end_y=0.4511141427921782"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4863,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Surviving Spouse",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06121247792819305&start_y=0.43610732150977716&end_x=0.07474985285462037&end_y=0.44565711687130516",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06121247792819305&start_y=0.43610732150977716&end_x=0.07474985285462037&end_y=0.44565711687130516"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4864,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Parent",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.2113007651559741&start_y=0.43610732150977716&end_x=0.22424955856386108&end_y=0.4461118690313779",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.2113007651559741&start_y=0.43610732150977716&end_x=0.22424955856386108&end_y=0.4461118690313779"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4865,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Child",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.29487934078869926&start_y=0.43610732150977716&end_x=0.3084167157151265&end_y=0.4461118690313779",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.29487934078869926&start_y=0.43610732150977716&end_x=0.3084167157151265&end_y=0.4461118690313779"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4866,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Custodian Filing for Child",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.3690406121247793&start_y=0.43610732150977716&end_x=0.38198940553266625&end_y=0.4461118690313779",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.3690406121247793&start_y=0.43610732150977716&end_x=0.38198940553266625&end_y=0.4461118690313779"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4867,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claimant DOB",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "05-16-1930",
+                "normalized": "05/16/1930",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.05473808122424956&start_y=0.49067758071850837&end_x=0.32872427239533664&end_y=0.512483491528173",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.05473808122424956&start_y=0.49067758071850837&end_x=0.32872427239533664&end_y=0.512483491528173"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4868,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Vet Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.3719835197174809&start_y=0.4956798544793088&end_x=0.38728663919952916&end_y=0.5070486584811278",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.3719835197174809&start_y=0.4956798544793088&end_x=0.38728663919952916&end_y=0.5070486584811278"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4869,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Vet N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.44025897586815776&start_y=0.4956798544793088&end_x=0.45556209535020603&end_y=0.5070486584811278",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.44025897586815776&start_y=0.4956798544793088&end_x=0.45556209535020603&end_y=0.5070486584811278"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4870,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claimant Address",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Address",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "456 Love Street",
+                "normalized": "456 LOVE STREET",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.09064155385520895&start_y=0.5534333788085494&end_x=0.9382135455275223&end_y=0.5752392896182139",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.09064155385520895&start_y=0.5534333788085494&end_x=0.9382135455275223&end_y=0.5752392896182139"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4871,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claimant City",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Philadelphia",
+                "normalized": "PHILADELPHIA",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.37845791642142435&start_y=0.5798090040927695&end_x=0.8901692207507009&end_y=0.601614914902434",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.37845791642142435&start_y=0.5798090040927695&end_x=0.8901692207507009&end_y=0.601614914902434"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4872,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claimant State",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "US State",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "PA",
+                "normalized": "PA",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.15656268393172454&start_y=0.6107321509777172&end_x=0.2117849997832487&end_y=0.6307412460209186",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.15656268393172454&start_y=0.6107321509777172&end_x=0.2117849997832487&end_y=0.6307412460209186"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4873,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claimant Zip",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "US Zip Code",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "19144",
+                "normalized": "19144",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.5420835785756327&start_y=0.6102773988176444&end_x=0.6846048839646411&end_y=0.632083309627309",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.5420835785756327&start_y=0.6102773988176444&end_x=0.6846048839646411&end_y=0.632083309627309"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4874,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Phone Number",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "AlphaNumeric",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "XXX-XXX-XXXX",
+                "normalized": "XXXXXXXXXX",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.052972336668628606&start_y=0.6671214188267395&end_x=0.34294798606856536&end_y=0.6898146410827218",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.052972336668628606&start_y=0.6671214188267395&end_x=0.34294798606856536&end_y=0.6898146410827218"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4875,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Preferred Email",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Email Address",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "XXXXXX@aol.com",
+                "normalized": "XXXXXX@AOL.COM",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.052972336668628606&start_y=0.7107776261937244&end_x=0.4859535260848484&end_y=0.7325613441295612",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.052972336668628606&start_y=0.7107776261937244&end_x=0.4859535260848484&end_y=0.7325613441295612"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4876,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Dependency",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06709829311359623&start_y=0.7539790814006366&end_x=0.0824014125956445&end_y=0.7653478854024557",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.06709829311359623&start_y=0.7539790814006366&end_x=0.0824014125956445&end_y=0.7653478854024557"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4877,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Survivors Pension",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.4214243672748676&start_y=0.7539790814006366&end_x=0.4361389052383755&end_y=0.7653478854024557",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.4214243672748676&start_y=0.7539790814006366&end_x=0.4361389052383755&end_y=0.7653478854024557"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4878,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Accrued Benefits",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.5856386109476163&start_y=0.7539790814006366&end_x=0.6009417304296645&end_y=0.7653478854024557",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.5856386109476163&start_y=0.7539790814006366&end_x=0.6009417304296645&end_y=0.7653478854024557"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4879,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Another Name Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.07062978222483814&start_y=0.8344702137335153&end_x=0.0859329017068864&end_y=0.846293769895407",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.07062978222483814&start_y=0.8344702137335153&end_x=0.0859329017068864&end_y=0.846293769895407"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4880,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Another Name N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.13949381989405532&start_y=0.834924965893588&end_x=0.15420835785756326&end_y=0.846293769895407",
+            "page_id": 362,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 362,
+                    "location_image_url": "/api/v5/image/38687645-a221-419f-b7b7-9464b2ea7869?start_x=0.13949381989405532&start_y=0.834924965893588&end_x=0.15420835785756326&end_y=0.846293769895407"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4881,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "SSN Pg. 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "AlphaNumeric",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "XXX XX-XXXX",
+                "normalized": "XXXXXXXXX",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.27604473219540904&start_y=0.04047294224647567&end_x=0.5852191852335789&end_y=0.059594725843359474",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.27604473219540904&start_y=0.04047294224647567&end_x=0.5852191852335789&end_y=0.059594725843359474"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4882,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Active Service Date",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "02-06-1942",
+                "normalized": "02/06/1942",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.05414949970570924&start_y=0.1009549795361528&end_x=0.3286954003782614&end_y=0.12364820179213509",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.05414949970570924&start_y=0.1009549795361528&end_x=0.3286954003782614&end_y=0.12364820179213509"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4883,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Branch of Service",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Army",
+                "normalized": "ARMY",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.418481459682166&start_y=0.1009549795361528&end_x=0.6695884465043711&end_y=0.12364820179213509",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.418481459682166&start_y=0.1009549795361528&end_x=0.6695884465043711&end_y=0.12364820179213509"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4884,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Release Date",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "02-24-1944",
+                "normalized": "02/24/1944",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.6756915832842849&start_y=0.10140973169622555&end_x=0.9450557383582753&end_y=0.12230613818574466",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.6756915832842849&start_y=0.10140973169622555&end_x=0.9450557383582753&end_y=0.12230613818574466"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4885,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Place of Last Separation",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Fort Carson, Colorado",
+                "normalized": "FORT CARSON, COLORADO",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06415538552089464&start_y=0.14142792178262847&end_x=0.9122870866946731&end_y=0.16412114403861078",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06415538552089464&start_y=0.14142792178262847&end_x=0.9122870866946731&end_y=0.16412114403861078"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4886,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Title 10 Activation Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.05826957033549147&start_y=0.20509322419281492&end_x=0.07357268981753973&end_y=0.21646202819463392",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.05826957033549147&start_y=0.20509322419281492&end_x=0.07357268981753973&end_y=0.21646202819463392"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4887,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Title 10 Activation N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.12654502648616833&start_y=0.20509322419281492&end_x=0.1418481459682166&end_y=0.21646202819463392",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.12654502648616833&start_y=0.20509322419281492&end_x=0.1418481459682166&end_y=0.21646202819463392"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4888,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "POW Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06003531489111242&start_y=0.3792633015006821&end_x=0.07533843437316068&end_y=0.3910868576625739",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06003531489111242&start_y=0.3792633015006821&end_x=0.07533843437316068&end_y=0.3910868576625739"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4889,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "POW N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.1288993525603296&start_y=0.3792633015006821&end_x=0.14361389052383755&end_y=0.3910868576625739",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.1288993525603296&start_y=0.3792633015006821&end_x=0.14361389052383755&end_y=0.3910868576625739"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4890,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Year Married",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "1",
+                "normalized": "1",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04355503237198353&start_y=0.4592996816734879&end_x=0.6066315559424635&end_y=0.4902228285584357",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04355503237198353&start_y=0.4592996816734879&end_x=0.6066315559424635&end_y=0.4902228285584357"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4891,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Date of Marriage 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "09/30/1949",
+                "normalized": "09/30/1949",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04414361389052384&start_y=0.5347885402455662&end_x=0.28251912889935255&end_y=0.5648021828103683",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04414361389052384&start_y=0.5347885402455662&end_x=0.28251912889935255&end_y=0.5648021828103683"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4892,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "To Whom Married 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Susan M. Jackson",
+                "normalized": "SUSAN M. JACKSON",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.28193054738081225&start_y=0.5347885402455662&end_x=0.45615067686874633&end_y=0.5648021828103683",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.28193054738081225&start_y=0.5347885402455662&end_x=0.45615067686874633&end_y=0.5648021828103683"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4893,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Type of Marriage 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Ceremonial",
+                "normalized": "CEREMONIAL",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45615067686874633&start_y=0.5347885402455662&end_x=0.609181871689229&end_y=0.5648021828103683",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45615067686874633&start_y=0.5347885402455662&end_x=0.609181871689229&end_y=0.5648021828103683"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4894,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "How Marriage Ended 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Death",
+                "normalized": "DEATH",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.609181871689229&start_y=0.5347885402455662&end_x=0.7357268981753973&end_y=0.5648021828103683",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.609181871689229&start_y=0.5347885402455662&end_x=0.7357268981753973&end_y=0.5648021828103683"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4895,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Date Marriage Ended 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "12/15/2021",
+                "normalized": "12/15/2021",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.7357268981753973&start_y=0.5347885402455662&end_x=0.9493819894055326&end_y=0.5648021828103683",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.7357268981753973&start_y=0.5347885402455662&end_x=0.9493819894055326&end_y=0.5648021828103683"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4896,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Date of Marriage 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04355503237198352&start_y=0.5643474306502956&end_x=0.2831077104178929&end_y=0.5961800818553888",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04355503237198352&start_y=0.5643474306502956&end_x=0.2831077104178929&end_y=0.5961800818553888"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4897,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "To Whom Married 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.28193054738081225&start_y=0.5648021828103683&end_x=0.45615067686874633&end_y=0.5957253296953161",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.28193054738081225&start_y=0.5648021828103683&end_x=0.45615067686874633&end_y=0.5957253296953161"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4898,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Type of Marriage 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45556209535020603&start_y=0.5643474306502956&end_x=0.6097704532077692&end_y=0.5961800818553888",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45556209535020603&start_y=0.5643474306502956&end_x=0.6097704532077692&end_y=0.5961800818553888"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4899,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "How Marriage Ended 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.6085932901706886&start_y=0.5643474306502956&end_x=0.7363154796939376&end_y=0.5961800818553888",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.6085932901706886&start_y=0.5643474306502956&end_x=0.7363154796939376&end_y=0.5961800818553888"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4900,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Date Marriage Ended 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.735138316656857&start_y=0.5643474306502956&end_x=0.949970570924073&end_y=0.5961800818553888",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.735138316656857&start_y=0.5643474306502956&end_x=0.949970570924073&end_y=0.5961800818553888"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4901,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Times Married",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "1",
+                "normalized": "1",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45556209535020603&start_y=0.6557526148249204&end_x=0.949970570924073&end_y=0.6934970441109596",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45556209535020603&start_y=0.6557526148249204&end_x=0.949970570924073&end_y=0.6934970441109596"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4902,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Remarried Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.062978222483814&start_y=0.6743974533879036&end_x=0.07828134196586227&end_y=0.6862210095497954",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.062978222483814&start_y=0.6743974533879036&end_x=0.07828134196586227&end_y=0.6862210095497954"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4903,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Remarried N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.1312536786344909&start_y=0.6743974533879036&end_x=0.14655679811653913&end_y=0.6862210095497954",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.1312536786344909&start_y=0.6743974533879036&end_x=0.14655679811653913&end_y=0.6862210095497954"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4904,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claim Date of Marriage",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "09/30/1949",
+                "normalized": "09/30/1949",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04355503237198352&start_y=0.692587539790814&end_x=0.2831077104178929&end_y=0.7630741246020919",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.04355503237198352&start_y=0.692587539790814&end_x=0.2831077104178929&end_y=0.7630741246020919"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4905,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claim To Whom Married",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "John J. Jackson",
+                "normalized": "JOHN J. JACKSON",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.28193054738081225&start_y=0.6930422919508867&end_x=0.45615067686874633&end_y=0.762619372442019",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.28193054738081225&start_y=0.6930422919508867&end_x=0.45615067686874633&end_y=0.762619372442019"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4906,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claim Type of Marriage",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Ceremonial",
+                "normalized": "CEREMONIAL",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45671038637021144&start_y=0.692587539790814&end_x=0.6103301627092343&end_y=0.7630741246020919",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.45671038637021144&start_y=0.692587539790814&end_x=0.6103301627092343&end_y=0.7630741246020919"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4907,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claim How Marriage Ended",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Death",
+                "normalized": "DEATH",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.6080047086521483&start_y=0.6930422919508867&end_x=0.785167745732784&end_y=0.762619372442019",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.6080047086521483&start_y=0.6930422919508867&end_x=0.785167745732784&end_y=0.762619372442019"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4908,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Claim Date Marriage Ended",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "12/15/2021",
+                "normalized": "12/15/2021",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.7845791642142437&start_y=0.6930422919508867&end_x=0.9493819894055326&end_y=0.762619372442019",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.7845791642142437&start_y=0.6930422919508867&end_x=0.9493819894055326&end_y=0.762619372442019"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4909,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "23 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06121247792819305&start_y=0.8644838562983174&end_x=0.07651559741024132&end_y=0.8763074124602092",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06121247792819305&start_y=0.8644838562983174&end_x=0.07651559741024132&end_y=0.8763074124602092"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4910,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "23 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.12948793407886994&start_y=0.8644838562983174&end_x=0.14479105356091818&end_y=0.8763074124602092",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.12948793407886994&start_y=0.8644838562983174&end_x=0.14479105356091818&end_y=0.8763074124602092"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4911,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "24 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.516774573278399&start_y=0.8631195998180992&end_x=0.5320776927604474&end_y=0.874943155979991",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.516774573278399&start_y=0.8631195998180992&end_x=0.5320776927604474&end_y=0.874943155979991"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4912,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "24 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.5850500294290759&start_y=0.8631195998180992&end_x=0.6003531489111242&end_y=0.874943155979991",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.5850500294290759&start_y=0.8631195998180992&end_x=0.6003531489111242&end_y=0.874943155979991"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4913,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "25 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06121247792819305&start_y=0.9149613460663938&end_x=0.07651559741024132&end_y=0.9263301500682128",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.06121247792819305&start_y=0.9149613460663938&end_x=0.07651559741024132&end_y=0.9263301500682128"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4914,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "25 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.12831077104178928&start_y=0.9149613460663938&end_x=0.14302530900529722&end_y=0.9263301500682128",
+            "page_id": 363,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 363,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97b?start_x=0.12831077104178928&start_y=0.9149613460663938&end_x=0.14302530900529722&end_y=0.9263301500682128"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4915,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "27 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97c?start_x=0.06062389640965274&start_y=0.11869031377899045&end_x=0.07533843437316068&end_y=0.13005911778080945",
+            "page_id": 364,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 364,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97c?start_x=0.06062389640965274&start_y=0.11869031377899045&end_x=0.07533843437316068&end_y=0.13005911778080945"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4916,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "27 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97c?start_x=0.11948204826368453&start_y=0.11914506593906321&end_x=0.13419658622719247&end_y=0.1305138699408822",
+            "page_id": 364,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 364,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97c?start_x=0.11948204826368453&start_y=0.11914506593906321&end_x=0.13419658622719247&end_y=0.1305138699408822"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4917,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "37 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.06356680400235433&start_y=0.6371077762619373&end_x=0.07828134196586227&end_y=0.6484765802637562",
+            "page_id": 365,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 365,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.06356680400235433&start_y=0.6371077762619373&end_x=0.07828134196586227&end_y=0.6484765802637562"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4918,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "37 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.12713360800470866&start_y=0.6371077762619373&end_x=0.1418481459682166&end_y=0.648931332423829",
+            "page_id": 365,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 365,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.12713360800470866&start_y=0.6371077762619373&end_x=0.1418481459682166&end_y=0.648931332423829"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4919,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "38A Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.06533254855797528&start_y=0.669849931787176&end_x=0.08004708652148322&end_y=0.681218735788995",
+            "page_id": 365,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 365,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.06533254855797528&start_y=0.669849931787176&end_x=0.08004708652148322&end_y=0.681218735788995"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4920,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "38A N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.1288993525603296&start_y=0.669849931787176&end_x=0.14361389052383755&end_y=0.681218735788995",
+            "page_id": 365,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 365,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.1288993525603296&start_y=0.669849931787176&end_x=0.14361389052383755&end_y=0.681218735788995"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4921,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "39 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.06415538552089464&start_y=0.9363346975898136&end_x=0.0788699234844026&end_y=0.9477035015916325",
+            "page_id": 365,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 365,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.06415538552089464&start_y=0.9363346975898136&end_x=0.0788699234844026&end_y=0.9477035015916325"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4922,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "39 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.12772218952324896&start_y=0.9363346975898136&end_x=0.14243672748675693&end_y=0.9481582537517054",
+            "page_id": 365,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 365,
+                    "location_image_url": "/api/v5/image/d54260e9-f776-4b96-8f0d-9181e3bea97a?start_x=0.12772218952324896&start_y=0.9363346975898136&end_x=0.14243672748675693&end_y=0.9481582537517054"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4923,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "SS Recip",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Myself",
+                "normalized": "MYSELF",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.04885226603884638&start_y=0.11414279217826284&end_x=0.7416127133608005&end_y=0.1446111869031378",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.04885226603884638&start_y=0.11414279217826284&end_x=0.7416127133608005&end_y=0.1446111869031378"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4924,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Gross Monthly Amount",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Currency - X,XXX.XX",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "1088",
+                "normalized": "1088.00",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.7416127133608005&start_y=0.11414279217826284&end_x=0.9523248969982343&end_y=0.1446111869031378",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.7416127133608005&start_y=0.11414279217826284&end_x=0.9523248969982343&end_y=0.1446111869031378"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4925,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "41 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06062389640965274&start_y=0.29058663028649384&end_x=0.07533843437316068&end_y=0.3019554342883129",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06062389640965274&start_y=0.29058663028649384&end_x=0.07533843437316068&end_y=0.3019554342883129"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4926,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "41N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.125956444967628&start_y=0.2896771259663483&end_x=0.14008240141259565&end_y=0.30104592996816737",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.125956444967628&start_y=0.2896771259663483&end_x=0.14008240141259565&end_y=0.30104592996816737"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4927,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Lot",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.11860721654342873&start_y=0.3279503105590062&end_x=0.23275593419620266&end_y=0.3527950310559006",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.11860721654342873&start_y=0.3279503105590062&end_x=0.23275593419620266&end_y=0.3527950310559006"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4928,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "42B Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.3719835197174809&start_y=0.330150068212824&end_x=0.3866980576809888&end_y=0.3419736243747158",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.3719835197174809&start_y=0.330150068212824&end_x=0.3866980576809888&end_y=0.3419736243747158"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4929,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "42B N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.43378457916421426&start_y=0.330150068212824&end_x=0.4490876986462625&end_y=0.3419736243747158",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.43378457916421426&start_y=0.330150068212824&end_x=0.4490876986462625&end_y=0.3419736243747158"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4930,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43A Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.05885815185403178&start_y=0.428831286948613&end_x=0.07357268981753973&end_y=0.440200090950432",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.05885815185403178&start_y=0.428831286948613&end_x=0.07357268981753973&end_y=0.440200090950432"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4931,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43A N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12065921130076515&start_y=0.428831286948613&end_x=0.1353737492642731&end_y=0.440200090950432",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12065921130076515&start_y=0.428831286948613&end_x=0.1353737492642731&end_y=0.440200090950432"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4932,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43B Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.49087698646262506&start_y=0.4315597999090496&end_x=0.5061801059446733&end_y=0.4429286039108686",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.49087698646262506&start_y=0.4315597999090496&end_x=0.5061801059446733&end_y=0.4429286039108686"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4933,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43B N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.5597410241318422&start_y=0.4315597999090496&end_x=0.5744555620953502&end_y=0.4429286039108686",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.5597410241318422&start_y=0.4315597999090496&end_x=0.5744555620953502&end_y=0.4429286039108686"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4934,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43C Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06062389640965274&start_y=0.47748976807639837&end_x=0.07533843437316068&end_y=0.48885857207821737",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06062389640965274&start_y=0.47748976807639837&end_x=0.07533843437316068&end_y=0.48885857207821737"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4935,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43C N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12419070041200707&start_y=0.47748976807639837&end_x=0.13890523837551502&end_y=0.48885857207821737",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12419070041200707&start_y=0.47748976807639837&end_x=0.13890523837551502&end_y=0.48885857207821737"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4936,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43D Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06003531489111242&start_y=0.5193269668030923&end_x=0.07533843437316068&end_y=0.5306957708049114",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06003531489111242&start_y=0.5193269668030923&end_x=0.07533843437316068&end_y=0.5306957708049114"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4937,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43D N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12419070041200707&start_y=0.5193269668030923&end_x=0.13890523837551502&end_y=0.5306957708049114",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12419070041200707&start_y=0.5193269668030923&end_x=0.13890523837551502&end_y=0.5306957708049114"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4938,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43E Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06062389640965274&start_y=0.5643474306502956&end_x=0.07533843437316068&end_y=0.5757162346521146",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06062389640965274&start_y=0.5643474306502956&end_x=0.07533843437316068&end_y=0.5757162346521146"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4939,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "43E N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12183637433784579&start_y=0.5643474306502956&end_x=0.13655091230135374&end_y=0.5757162346521146",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.12183637433784579&start_y=0.5643474306502956&end_x=0.13655091230135374&end_y=0.5757162346521146"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4940,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "44 Y",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "True",
+                "normalized": "TRUE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06003531489111242&start_y=0.7294224647567076&end_x=0.07474985285462037&end_y=0.7412460209185994",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.06003531489111242&start_y=0.7294224647567076&end_x=0.07474985285462037&end_y=0.7412460209185994"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4941,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "44 N",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.11712772218952325&start_y=0.7298772169167803&end_x=0.1318422601530312&end_y=0.7412460209185994",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.11712772218952325&start_y=0.7298772169167803&end_x=0.1318422601530312&end_y=0.7412460209185994"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4942,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45A 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Myself",
+                "normalized": "MYSELF",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.04826368452030606&start_y=0.800818553888131&end_x=0.24661565626839319&end_y=0.8431105047748977",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.04826368452030606&start_y=0.800818553888131&end_x=0.24661565626839319&end_y=0.8431105047748977"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4943,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45B 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Social Security",
+                "normalized": "SOCIAL SECURITY",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.24543849323131253&start_y=0.800818553888131&end_x=0.45615067686874633&end_y=0.842655752614825",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.24543849323131253&start_y=0.800818553888131&end_x=0.45615067686874633&end_y=0.842655752614825"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4944,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45C 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Medicare Premium",
+                "normalized": "MEDICARE PREMIUM",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.4549735138316657&start_y=0.8012733060482037&end_x=0.6556798116539141&end_y=0.842655752614825",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.4549735138316657&start_y=0.8012733060482037&end_x=0.6556798116539141&end_y=0.842655752614825"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4945,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45D 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "2022",
+                "normalized": "02/02/2020",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.6545026486168334&start_y=0.8012733060482037&end_x=0.757504414361389&end_y=0.842655752614825",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.6545026486168334&start_y=0.8012733060482037&end_x=0.757504414361389&end_y=0.842655752614825"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4946,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45E 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.7563272513243084&start_y=0.8017280582082765&end_x=0.872277810476751&end_y=0.8422010004547522",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.7563272513243084&start_y=0.8017280582082765&end_x=0.872277810476751&end_y=0.8422010004547522"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4947,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45F 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": true,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "170.10\nmonthly",
+                "normalized": "170.10 MONTHLY",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.8711006474396704&start_y=0.8017280582082765&end_x=0.9529134785167745&end_y=0.8422010004547522",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.8711006474396704&start_y=0.8017280582082765&end_x=0.9529134785167745&end_y=0.8422010004547522"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4948,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45A 1",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Myself",
+                "normalized": "MYSELF",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.04826368452030606&start_y=0.8422010004547522&end_x=0.24661565626839319&end_y=0.8781264211005002",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.04826368452030606&start_y=0.8422010004547522&end_x=0.24661565626839319&end_y=0.8781264211005002"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4949,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45B 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Brightstar Care",
+                "normalized": "BRIGHTSTAR CARE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.24543849323131253&start_y=0.8422010004547522&end_x=0.45615067686874633&end_y=0.8781264211005002",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.24543849323131253&start_y=0.8422010004547522&end_x=0.45615067686874633&end_y=0.8781264211005002"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4950,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45C 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "Caregiver services",
+                "normalized": "CAREGIVER SERVICES",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.4549735138316657&start_y=0.8422010004547522&end_x=0.6556798116539141&end_y=0.8781264211005002",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.4549735138316657&start_y=0.8422010004547522&end_x=0.6556798116539141&end_y=0.8781264211005002"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4951,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45D 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Date - MMDDYYYY",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "11/01/2021",
+                "normalized": "11/01/2021",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.6545026486168334&start_y=0.8417462482946794&end_x=0.757504414361389&end_y=0.8781264211005002",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.6545026486168334&start_y=0.8417462482946794&end_x=0.757504414361389&end_y=0.8781264211005002"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4952,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45E 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.7563272513243084&start_y=0.8412914961346066&end_x=0.872277810476751&end_y=0.8781264211005002",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.7563272513243084&start_y=0.8412914961346066&end_x=0.872277810476751&end_y=0.8781264211005002"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4953,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "45F 2",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": true,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "1200.00\nmonthly",
+                "normalized": "1200.00 MONTHLY",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.8711006474396704&start_y=0.8412914961346066&end_x=0.9529134785167745&end_y=0.8781264211005002",
+            "page_id": 366,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 366,
+                    "location_image_url": "/api/v5/image/4397cf65-a5e6-4aed-8b5b-42e6b39e0348?start_x=0.8711006474396704&start_y=0.8412914961346066&end_x=0.9529134785167745&end_y=0.8781264211005002"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4954,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Checking",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.0594467333725721&start_y=0.7680763983628922&end_x=0.07474985285462037&end_y=0.779899954524784",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.0594467333725721&start_y=0.7680763983628922&end_x=0.07474985285462037&end_y=0.779899954524784"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4955,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Savings",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.28251912889935255&start_y=0.7680763983628922&end_x=0.2978222483814008&end_y=0.779899954524784",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.28251912889935255&start_y=0.7680763983628922&end_x=0.2978222483814008&end_y=0.779899954524784"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4956,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Cert",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Checkbox",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "False",
+                "normalized": "FALSE",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.5120659211300765&start_y=0.7680763983628922&end_x=0.5267804590935845&end_y=0.779899954524784",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.5120659211300765&start_y=0.7680763983628922&end_x=0.5267804590935845&end_y=0.779899954524784"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4957,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Checking Account No",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.12825421108969956&start_y=0.7774622892635314&end_x=0.27363596564307097&end_y=0.79698314108252",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.12825421108969956&start_y=0.7774622892635314&end_x=0.27363596564307097&end_y=0.79698314108252"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4958,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Savings Account No",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.35068804979069534&start_y=0.7785891748003548&end_x=0.4960698043440668&end_y=0.7981100266193434",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.35068804979069534&start_y=0.7785891748003548&end_x=0.4960698043440668&end_y=0.7981100266193434"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4959,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Name of Financial Institution",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Generic Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.047675103001765744&start_y=0.8017280582082765&end_x=0.5144202472042377&end_y=0.8494770350159163",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.047675103001765744&start_y=0.8017280582082765&end_x=0.5144202472042377&end_y=0.8494770350159163"
+                }
+            ],
+            "decisions": []
+        },
+        {
+            "id": 4960,
+            "state": "complete",
+            "substate": null,
+            "exceptions": [],
+            "name": "Routing Number",
+            "output_name": null,
+            "field_definition_attributes": {
+                "required": false,
+                "data_type": "Numeric Text",
+                "multiline": false,
+                "routing": false,
+                "duplicate": false,
+                "supervision_override": null
+            },
+            "transcription": {
+                "raw": "",
+                "normalized": "",
+                "source": "machine_transcription",
+                "data_deleted": false,
+                "user_transcribed": null
+            },
+            "field_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.5132430841671571&start_y=0.8017280582082765&end_x=0.951736315479694&end_y=0.8490222828558436",
+            "page_id": 367,
+            "occurrence_index": 0,
+            "locations": [
+                {
+                    "position": 1,
+                    "page_id": 367,
+                    "location_image_url": "/api/v5/image/c98775c4-5cbd-4836-8f6c-5f77278f8280?start_x=0.5132430841671571&start_y=0.8017280582082765&end_x=0.951736315479694&end_y=0.8490222828558436"
+                }
+            ],
+            "decisions": []
+        }
+    ],
+    "derived_document_fields": []
+}
